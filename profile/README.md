@@ -1,1 +1,1 @@
-<img src="./githubheader.jpg" alt="Vinayak Studios Github Header">
+<img src="../githubheader.jpg" alt="Vinayak Studios Github Header">
