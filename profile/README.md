@@ -13,5 +13,12 @@
 <h3>About Us</h3>
 
 <pre>🔹 Welcome to Vinayak Studios 👋</pre>
-<p>◻️ &nbsp; We are a company that specializes in web development, app development, graphic designing and digital marketing. We started venture in this space because we saw that there is a lot of mistrust between customers and the companies. Our goal from the start has always been to build long term relationship with our customes whose foundations are trust and transparency.</p>
+<p> ◻️ Wlcome to Vinayak Studios. We are an IT company headquartered in the beautiful city of Chandigarh, India.
+
+We provide services in Web development, App development(ios and android), Graphic Designing and Digital Marketing.
+
+We saw that in this industry there was a huge distrust between the company and the customers. So, keeping that as a vision for our company we made TRUST and TRANSPARENCY, the foundational building blocks in this venture. We just don’t wanna provide services, we want to build long term relationships with our customers and focus ourselves in providing services that embodies their vision.
+</p>
+
+<pre>Contact us and be a part of our ever growing family.</pre>
 
