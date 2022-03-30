@@ -15,10 +15,10 @@
 <pre>🔹 Welcome to Vinayak Studios 👋</pre>
 <p> ◻️ &nbsp; Welcome to Vinayak Studios. We are an IT company headquartered in the beautiful city of Chandigarh, India.
 
- ◻️ &nbsp; We provide services in Web development, App development(ios and android), Graphic Designing and Digital Marketing.
+ ◻️ &nbsp; We provide services in Web development, App development (ios and android), Graphic Designing and Digital Marketing.
 
  ◻️ &nbsp; We saw that in this industry there was a huge distrust between the company and the customers. So, keeping that as a vision for our company we made TRUST and TRANSPARENCY, the foundational building blocks in this venture. We just don’t wanna provide services, we want to build long term relationships with our customers and focus ourselves in providing services that embodies their vision.
 </p>
 
-<pre>💬 Cntact us and be a part of our ever growing family.</pre>
+<pre>💬 Contact us and be a part of our ever growing family.</pre>
 
